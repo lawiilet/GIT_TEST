@@ -13,4 +13,4 @@ print(dt.strftime('%y%m%d %H:%M'))
 print(dt.strptime('20200316 20:17:01', '%Y%m%d %H:%M:%S'))
 print(type(dt.strptime('20200316', '%Y%m%d')))
 
-# 111111111111111111111111111
+# 1111111111111111111111
